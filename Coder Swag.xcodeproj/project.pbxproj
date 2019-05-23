@@ -17,6 +17,7 @@
 		69581D5A22964BBF0034902D /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69581D5922964BBF0034902D /* DataService.swift */; };
 		69581D5C2296567F0034902D /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69581D5B2296567F0034902D /* ProductCell.swift */; };
 		69581D5E229658340034902D /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69581D5D229658340034902D /* Product.swift */; };
+		69581D6022965C750034902D /* ProductsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69581D5F22965C750034902D /* ProductsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		69581D5922964BBF0034902D /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		69581D5B2296567F0034902D /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 		69581D5D229658340034902D /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		69581D5F22965C750034902D /* ProductsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				69581D4122962CE30034902D /* CategoriesViewController.swift */,
+				69581D5F22965C750034902D /* ProductsViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 			files = (
 				69581D4222962CE30034902D /* CategoriesViewController.swift in Sources */,
 				69581D4022962CE30034902D /* AppDelegate.swift in Sources */,
+				69581D6022965C750034902D /* ProductsViewController.swift in Sources */,
 				69581D552296483D0034902D /* CategoryCell.swift in Sources */,
 				69581D5C2296567F0034902D /* ProductCell.swift in Sources */,
 				69581D5722964A410034902D /* Category.swift in Sources */,
